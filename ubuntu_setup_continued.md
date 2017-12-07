@@ -370,3 +370,8 @@ opam install core async yojson core_extended core_bench \
 
 http://sourcedigit.com/20695-how-to-install-firefox-developer-edition-on-ubuntu-16-04/
 
+
+## elevate access recursively
+```sh
+sudo chmod -R 755 ./selenium-java-3.8.1/
+```
